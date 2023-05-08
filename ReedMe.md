@@ -1,4 +1,5 @@
-# Read Me generator
+# Read-Me_generator
+
 
 ## Description
 Thsi app will allow you to make a professional read me simply throu your intergraded terminal
@@ -16,6 +17,3 @@ none
 -
 
 ## License
-
-
-
